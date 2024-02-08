@@ -71,6 +71,6 @@ sudo apt update
 sudo apt install trivy -y
 
 
-# Intalling Helm
+# Installing Helm
 #! /bin/bash
 sudo snap install helm --classic
