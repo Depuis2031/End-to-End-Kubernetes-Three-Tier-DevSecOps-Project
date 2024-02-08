@@ -42,4 +42,3 @@ spec:
                 key: password
         ports:
         - containerPort: 3500
-        
